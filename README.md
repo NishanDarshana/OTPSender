@@ -1,0 +1,3 @@
+# OTPSender
+Authenticate a email using OTP
+This is a JAVA SE program...
